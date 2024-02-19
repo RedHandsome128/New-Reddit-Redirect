@@ -1,13 +1,21 @@
 # New Reddit Redirect
 
-This is a user script that automatically redirects you to new.reddit.com when you visit any reddit.com page. It works on any browser that supports user scripts, such as Tampermonkey or Greasemonkey.
+This is a user script that automatically redirects you to new.reddit.com when you visit any reddit.com page.  
+It works on any browser that supports user script extensions, such as [Violentmonkey](https://violentmonkey.github.io/) or Tampermonkey.
 
-## Why use this script?
+## Downloads
+[Click To Download](https://github.com/xPuls3/New-Reddit-Redirect/raw/master/script.user.js)
 
-Some users may prefer the old reddit design for various reasons, such as simplicity, familiarity, or performance. This script saves you the hassle of manually changing the URL.
+## Installation
+* First, download [Violentmonkey](https://violentmonkey.github.io/get-it/).
+* Then go to the Downloads section above, and click the download link.
+* Violentmonkey will display a "confirm Installation" button, confirm the installation.
+* Browse Reddit.
 
-## How to use this script?
+## Compatibility
+* Compatible with Firefox & Chrome.
+* Compatible with Violentmonkey v2.12.7.
 
-1. To use this script, you need to install a browser extension that allows you to run custom JavaScript code on any website. Some examples are Tampermonkey, Greasemonkey, or Violentmonkey.
-2. After installing the extension, create a new script and copy the code from this repository into it. Save and activate the script.
-3. Enjoy browsing new reddit!
+---
+
+This repository was forked from RichKMLS's [Old Reddit Redirect](https://github.com/RichKMLS/Old-Reddit-Redirect) script.
