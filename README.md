@@ -12,9 +12,18 @@ It works on any browser that supports user script extensions, such as [Violentmo
 * Violentmonkey will display a "confirm Installation" button, confirm the installation.
 * Browse Reddit.
 
-## Compatibility
-* Compatible with Firefox & Chrome.
+### Browsers
+* Compatible with Firefox v72.
+* Compatible with Chrome v77.
+* Compatible with Opera v64.
+* Compatible with Microsoft Edge v81.
+* Not compatible with Safari v12.
+* Not compatible with Internet Explorer v11.
+
+### Extensions
 * Compatible with Violentmonkey v2.12.7.
+* Compatible with Tampermonkey v4.9.
+* Not compatible with Greasemonkey v4.9.
 
 ---
 
