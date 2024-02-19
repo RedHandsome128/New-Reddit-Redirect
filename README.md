@@ -3,6 +3,8 @@
 This is a user script that automatically redirects you to new.reddit.com when you visit any reddit.com page.  
 It works on any browser that supports user script extensions, such as [Violentmonkey](https://violentmonkey.github.io/) or Tampermonkey.
 
+This script is confirmed to be working on Reddit as of Febuary 19th of 2024.
+
 ## Downloads
 [Click To Download](https://github.com/xPuls3/New-Reddit-Redirect/raw/master/script.user.js)
 
