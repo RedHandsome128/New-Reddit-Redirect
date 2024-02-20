@@ -1,5 +1,7 @@
 # New Reddit Redirect
 
+This script gets rid of the terrible new green UI reddit is pushing, and takes you back to the black one.
+
 This is a user script that automatically redirects you to new.reddit.com when you visit any reddit.com page.  
 It works on any browser that supports user script extensions, such as [Violentmonkey](https://violentmonkey.github.io/) or Tampermonkey.
 
