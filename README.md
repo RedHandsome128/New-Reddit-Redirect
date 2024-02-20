@@ -21,13 +21,13 @@ This script is confirmed to be working on Reddit as of Febuary 19th of 2024.
 * Compatible with Chrome v77.
 * Compatible with Opera v64.
 * Compatible with Microsoft Edge v81.
-* Not compatible with Safari v12.
-* Not compatible with Internet Explorer v11.
+* **Not compatible with Safari v12.**
+* **Not compatible with Internet Explorer v11.**
 
 ### Extensions
 * Compatible with Violentmonkey v2.12.7.
 * Compatible with Tampermonkey v4.9.
-* Not compatible with Greasemonkey v4.9.
+* **Not compatible with Greasemonkey v4.9.**
 
 ---
 
