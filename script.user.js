@@ -6,6 +6,8 @@
 // @match *://*.reddit.com/*
 // @exclude /^https?://[a-z]{2}\.reddit\.com/*
 // @exclude *out.reddit.com/*
+// @exclude *mod.reddit.com/*
+// @exclude *old.reddit.com/*
 // @exclude *://*.reddit.com/gallery/*
 // @exclude *://*.reddit.com/media*
 // @run-at document-start
