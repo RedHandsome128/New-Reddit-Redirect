@@ -10,7 +10,7 @@
 // @exclude *old.reddit.com/*
 // @exclude *://*.reddit.com/gallery/*
 // @exclude *://*.reddit.com/media*
-// @exclue  *://*.reddit.com/mod/insights
+// @exclue  *://*.reddit.com/mod//insights
 // @run-at document-start
 // @grant        none
 // ==/UserScript==
