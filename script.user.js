@@ -8,6 +8,7 @@
 // @exclude *out.reddit.com/*
 // @exclude *mod.reddit.com/*
 // @exclude *old.reddit.com/*
+// @exclude *chat.reddit.com/*
 // @exclude *://*.reddit.com/gallery/*
 // @exclude *://*.reddit.com/media*
 // @exclude  *://*.reddit.com/mod/*/insights
