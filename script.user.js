@@ -13,6 +13,7 @@
 // @exclude *://*.reddit.com/media*
 // @exclude  *://*.reddit.com/mod/*/insights
 // @exclude *://*.reddit.com/mod/*/automations
+// @exclude *://*.reddit.com/login*
 // @run-at document-start
 // @grant        none
 // ==/UserScript==
