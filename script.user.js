@@ -12,6 +12,7 @@
 // @exclude *://*.reddit.com/gallery/*
 // @exclude *://*.reddit.com/media*
 // @exclude  *://*.reddit.com/mod/*/insights
+// @exclude *://*.reddit.com/mod/*/automations
 // @run-at document-start
 // @grant        none
 // ==/UserScript==
